@@ -1,6 +1,6 @@
 # npmdoc-dev
 
-#### api documentation for  [dev (v0.1.3)](https://github.com/iliakan/node-dev#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-dev.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dev) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dev.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dev)
+#### basic api documentation for  [dev (v0.1.3)](https://github.com/iliakan/node-dev#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-dev.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dev) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dev.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dev)
 
 #### Reruns the given file whenever the current working dir subtree has modifications.
 
